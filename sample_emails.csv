@@ -1,0 +1,9 @@
+first_name,last_name,email,company
+Alex,Mercer,definitelynotrealmailbox98234@gmail.com,Acme Corp
+Sarah,Connor,sarah.connor@cyberdyne.org,Resistance
+Support,Team,support@github.com,GitHub
+Test,Disposable,user84920@mailinator.com,Throwaway Inc
+Broken,Email,not-an-email-format,Unknown
+John,Doe,john.fake.doe.839210@outlook.com,Contoso
+Marketing,Dept,marketing@google.com,Google
+Empty,User,,NoEmail Corp
